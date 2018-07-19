@@ -1,0 +1,13 @@
+dt {
+  padding: 20px;
+  cursor: pointer;
+  background-color: #eee;
+}
+
+dt:hover {
+  background-color: #ddd;
+}
+
+dd {
+  display: none;
+}
